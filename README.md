@@ -1,4 +1,4 @@
-## Trabajo - TÉCNICAS DE PROGRAMACIÓN II 🛰️
+## TRABAJO FINAL - TÉCNICAS DE PROGRAMACIÓN II 🛰️
 El presente trabajo se realizó con la finalidad de comparar el índice de sequía entre una cuenca en los Andes (Cuenca Camaná) y una intercuenca de la Amazonía (Intercuenca Medio Alto Madre de Dios) 
 mediante índices de aridez y estimación de la brecha hídrica estandarizada (BHE), haciendo uso de las variables de temperatura y precipitación proveniente de la base de datos PISCO.
 
